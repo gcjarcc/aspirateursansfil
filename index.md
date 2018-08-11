@@ -1,4 +1,8 @@
-# Aspirateur sans fil: descriptif , comparatif et carateristiques
+---
+layout: default
+title: :  Comment bien choisir son aspirateur sans fil en 2018 ? Analyse et tests.
+description: Trouvez le robot multifonction adapté à vos besoins sans vous ruiner grâce à notre guide d'achat - nos tests - nos comparatifs produits.
+---
 ## Qu’est ce que c’est qu’un aspirateur sans fil ?
 Les aspirateurs sans fil sont des appareils électroménagers dédies pour les petites surfaces,Les nettoyages légers. Ils ont aussi une forme idéale, qui rend leur rangement plus aisé.Lorsqu’on parle de ces fameux, on évoque implicitement deux types d’appareils, qui on rendu La tâche de ménage plus facile et maniable, bien sur grâce à certain avantages. Notamment, L’absence d’un câble électrique, léger poids…etc. D’un autre coté ces appareils ont un seule inconvénient qui est la limite de ces batteries qui nécessite une recharge très fréquenté.
 
