@@ -1,6 +1,6 @@
 ---
 layout: default
-title: :  Comment bien choisir son aspirateur sans fil en 2018 ? Analyse et tests.
+title: Comment bien choisir son aspirateur sans fil en 2018 ? Analyse et tests.
 description: Trouvez le robot multifonction adapté à vos besoins sans vous ruiner grâce à notre guide d'achat - nos tests - nos comparatifs produits.
 ---
 ## Qu’est ce que c’est qu’un aspirateur sans fil ?
