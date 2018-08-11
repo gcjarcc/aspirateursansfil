@@ -1,8 +1,8 @@
-# Aspirateur sans fil descriptif , comparatif et carateristiques
-##Qu’est ce que c’est qu’un aspirateur sans fil ?
+# Aspirateur sans fil: descriptif , comparatif et carateristiques
+## Qu’est ce que c’est qu’un aspirateur sans fil ?
 Les aspirateurs sans fil sont des appareils électroménagers dédies pour les petites surfaces,Les nettoyages légers. Ils ont aussi une forme idéale, qui rend leur rangement plus aisé.Lorsqu’on parle de ces fameux, on évoque implicitement deux types d’appareils, qui on rendu La tâche de ménage plus facile et maniable, bien sur grâce à certain avantages. Notamment, L’absence d’un câble électrique, léger poids…etc. D’un autre coté ces appareils ont un seule inconvénient qui est la limite de ces batteries qui nécessite une recharge très fréquenté.
 
-Ces deux appareils sans fil, qu’on a cité récemment sont :
+## Les deux principaux types d'aspirateurs sans fil sont :
 
 * Aspirateur balai :
 
@@ -14,7 +14,7 @@ Ce type d’aspirateur est appellèe  aussi aspirateur de table , il permet de f
 
 Aprés tous ça voici un table comparatif des aspirateurs sans fil
 
-##Critère à prendre en considération lors d’un achat d’un aspirateur Sans fil :
+## Critère à prendre en considération lors d’un achat d’un aspirateur Sans fil :
 
 * Puissance d’aspiration : Pour avoir une idée très claire sur la puissance de son aspirateur, vous devriez considérer certains autres facteurs, et comme
   * Puissance d’aspiration (Kpa) ( Dépression ) : Cela montre la  différence de pression  générée par l’aspirateur, et sa capacité à soulever les poussières. Le rang  de dépressions des aspirateurs est  de 25 kPa  à 40 kPa.
